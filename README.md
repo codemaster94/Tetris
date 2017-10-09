@@ -1,2 +1,2 @@
 # Tetris
-React with Redux app
+Simple tetris game on React with Redux app
